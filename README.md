@@ -1,4 +1,4 @@
-### 📌 **Vistula University AI Assistant – Project Detailed Report**  
+### 📌 **University AI Assistant – Project Detailed Report**  
 
 ---
 
