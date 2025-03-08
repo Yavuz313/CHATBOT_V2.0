@@ -1,0 +1,158 @@
+[
+    {
+        "QUESTION": "Where can I find the timetable?",
+        "ANSWER": "The timetable is available in the USOSweb (University Study-Oriented System).\u00a0The link to the USOSweb is available on the University\u2019s website, in the Intranet tab. Students can see their individual timetable after logging the USOS system."
+    },
+    {
+        "QUESTION": "Where can I find information about the exam session?",
+        "ANSWER": "Exam session dates are given in the organisation of the academic year. Each lecturer is obliged to inform students about the date of the exam / final test."
+    },
+    {
+        "QUESTION": "How can I collect my student ID card?",
+        "ANSWER": "Student ID cards for students of the 1st semester can be collected at the reception of the University, the remaining cards should be collected at the Dean\u2019s Office."
+    },
+    {
+        "QUESTION": "When will the timetable be available?",
+        "ANSWER": "According to the Regulations, the timetable is published two weeks before the beginning of courses."
+    },
+    {
+        "QUESTION": "How can I find a lecturer?",
+        "ANSWER": "All information regarding courses is provided in the timetable on the USOSweb. Information on the lecturer (name and surname) is given in the description of each course and that is where you can check his/her timetable or send him/her an e-mail."
+    },
+    {
+        "QUESTION": "I need help with applying for a Residence Card. Can anyone help me?",
+        "ANSWER": "Yes, you may come to room 307. They can help you with documents."
+    },
+    {
+        "QUESTION": "I don\u2019t have a language certificate, can I pass an English exam at the University?",
+        "ANSWER": "Yes, you may pass an exam at the university. You may visit room 308, and register there for the exam."
+    },
+    {
+        "QUESTION": "I don\u2019t have a medical certificate, can I do that at the university?",
+        "ANSWER": "Yes,\u00a0 if you do not have a medical certificate, you may get it from our University doctor (the cost is 100 PLN)."
+    },
+    {
+        "QUESTION": "What is a medical certificate?",
+        "ANSWER": "It is a certificate from your doctor stating that you don\u2019t have any restrictions to conducting your studies."
+    },
+    {
+        "QUESTION": "I need to submit my original documents. Where do I need to go?",
+        "ANSWER": "After arrival, you have 2 days to submit your original documents to the Recruitment office, room 28."
+    },
+    {
+        "QUESTION": "Can someone help to show me around Warsaw?",
+        "ANSWER": "Yes, we have a Mentoring program,  so you can apply and get assigned a Mentor, at the following e-mail address "
+    },
+    {
+        "QUESTION": "I am a new student coming from abroad. I need someone to pick me up from the airport.",
+        "ANSWER": "You can apply for the Mentoring program, and you will be assigned a person who will help you get comfortable in Poland. You can apply here:\u00a0https://studentactivity.vistula.edu.pl/"
+    },
+    {
+        "QUESTION": "I want accommodation, where can I book it? Do you have a dormitory?",
+        "ANSWER": "In order to find out full information about accommodation, Please contact accommodation@vistula.edu.pl. Vistula offers private dormitories, as well as our own dormitory."
+    },
+    {
+        "QUESTION": "I want to apply for Erasmus",
+        "ANSWER": "Please, find detailed information about Erasmus here \u2013\u00a0https://www.vistula.edu.pl/en/students/erasmus or, alternatively, you may visit room 123."
+    },
+    {
+        "QUESTION": "Do I need to pay the registration fee first?",
+        "ANSWER": "No, we will send you the invoice with the tuition fee, registration fee, and student card fee."
+    },
+    {
+        "QUESTION": "I applied, how can I pay?",
+        "ANSWER": "Don\u2019t worry, the university will send your invoice after reviewing your documents. The invoice can be found in the application section: Payments."
+    },
+    {
+        "QUESTION": "How to reset your e-mail password?",
+        "ANSWER": "Write to ict-help@vistula.edu.pl. Unless you want to change them but know the old ones, then you can do it yourself on the Vistula mail site."
+    },
+    {
+        "QUESTION": "How to log into the university system?",
+        "ANSWER": "After submitting the documents to the Recruitment Department and admission to studies, within a few days of registration, you will receive logins to individual university systems along with detailed instructions on how to use them."
+    },
+    {
+        "QUESTION": "My account is inactive, what should I do?",
+        "ANSWER": "If you have already received a login and password and you cannot log in, please contact our IT department. New students who have not received an email with information on how to log in, should contact the Admissions Department. Students who continue their studies and their account is no longer active after the semester, should contact their Field Supervisor at the Dean\u2019s Office."
+    },
+    {
+        "QUESTION": "How to log into Vistula systems?",
+        "ANSWER": "You can log into all systems with one account \u2013 an e-mail account in the @stu.vistula.edu.pl domain."
+    },
+    {
+        "QUESTION": "I do not have or have a incorrect ID, what should I do?",
+        "ANSWER": "Please send an e-mail to the following address: ict-help@vistula.edu.pl"
+    },
+    {
+        "QUESTION": "Where are my grades?",
+        "ANSWER": "In the USOSweb system."
+    },
+    {
+        "QUESTION": "Is there any department to help me prepare for job interviews?",
+        "ANSWER": "Yes. We have a career office in university can help you about your job interviews.  Our Career Advisor will be happy to give you tips on preparing for job interviews."
+    },
+    {
+        "QUESTION": "Is there any department to help me prepare an effective CV?",
+        "ANSWER": "Of course. CV consultations are available in the Careers and Internship Department. Each student can count on the help of an experienced career counsellor."
+    },
+    {
+        "QUESTION": "Can the University help me with finding a future job?",
+        "ANSWER": "Yes, we do have a Careers Department. They can help you to draw up a CV, and find an internship or job."
+    },
+    {
+        "QUESTION": "Where do I have to submit documents for the internship?",
+        "ANSWER": "Documents of completed internships students of VSH submit to the Career and Internship Department (1st floor, room 116). On the other hand, VU students send scanned documents to the e-mail address of their tutor."
+    },
+    {
+        "QUESTION": "Is Poland cold?",
+        "ANSWER": "Poland experiences cold winters, especially in the northern and eastern regions, with temperatures often dropping below freezing. Summers are milder and more comfortable."
+    },
+    {
+        "QUESTION": "How can I buy public transportation tickets?",
+        "ANSWER": "You can purchase tickets from ticket vending machines located at some bus stops and metro stations."
+    },
+    {
+        "QUESTION": "What types of public transportation are used in Warsaw?",
+        "ANSWER": "In Warsaw, public transportation includes buses, trams, the metro, and trains."
+    },
+    {
+        "QUESTION": "Are there single-use public transportation tickets?",
+        "ANSWER": "There are two types of single-use public transportation tickets. One covers a 20-minute journey, and the other covers a 75-minute journey."
+    },
+    {
+        "QUESTION": "How can I travel from the airport to the city center?",
+        "ANSWER": "You can travel from the airport to the city center using public transportation such as buses and trains. Additionally, taxis are available at the airport."
+    },
+    {
+        "QUESTION": "How can I use a taxi?",
+        "ANSWER": "Taking a taxi in Warsaw is easy. You can use applications like Uber, Bolt, Freenow to call a taxi at your desired location and time."
+    },
+    {
+        "QUESTION": "What\u2019s the best way to get to the university?",
+        "ANSWER": "The most convenient way to reach the university is by using the metro and bus."
+    },
+    {
+        "QUESTION": "Is there a metro station near the university?",
+        "ANSWER": "There is a Stok\u0142osy metro station on the M1 route, just 3 minutes away from the university."
+    },
+    {
+        "QUESTION": "How can I travel from the university to the city center?",
+        "ANSWER": "You can reach the city center from the university in a short time, approximately 20 minutes, by using the metro."
+    },
+    {
+        "QUESTION": "Is there a discount for students in public transportation?",
+        "ANSWER": "In Poland, students with a valid student card get a 50% discount on public transport fares."
+    },
+    {
+        "QUESTION": "Where can I get a SIM card?",
+        "ANSWER": "In Poland, there are several mobile operators. You can visit the stores of major brands such as Play, Orange, and T-Mobile to obtain a SIM card."
+    },
+    {
+        "QUESTION": " How can I open a bank account?",
+        "ANSWER": "Each bank in Poland has its own customer policies, so the required documents to open an account may vary. Visit the bank you're interested in and submit the necessary documents to easily open an account."
+    },
+    {
+        "QUESTION": "Can I have accounts in currencies other than PLN in my bank account?",
+        "ANSWER": "While it varies by bank, you can typically open accounts in currencies other than PLN, such as euros and dollars."
+    }
+]
